@@ -1,0 +1,44 @@
+name: Semver Release Workflow
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Go 1.19
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.19
+
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+
+    - name: Cache packwiz cache
+      uses: actions/cache@v2
+      with:
+        path: /opt/buildhome/.cache/packwiz/cache
+        key: packwiz-cache-${{ runner.os }}-${{ hashFiles('**/go.sum') }}
+
+    - name: Run packwiz curseforge export
+      run: packwiz curseforge export -y
+
+    - name: Rename and add file to release
+      run: |
+        version=$(echo "${{ github.event.release.tag_name }}" | sed 's/^v//')
+        filename="Create_Stellar_Expanded_${version}.zip"
+        mv "Create Stellar Expanded.zip" "$filename"
+
+    - name: Upload release asset
+      uses: actions/upload-release-asset@v2
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ${{ github.workspace }}/${filename}
+        asset_name: ${filename}
+        asset_content_type: application/zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
