@@ -2335,12 +2335,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "3bdf68a82b402f0aa6bcbd128de8fcd09a5ab5e0164286d7dae43b6490b4cf7d"
+hash = "b63f2403870b9915cd6f5d54d7a4e8fe80af83ce9f435ca470e85d6b4c684ba4"
 metafile = true
 
 [[files]]
 file = "mods/create-sifting.pw.toml"
-hash = "39384647f4dd7dfad8fb7c2eaea60204ba20b378511297066c38a9786644ed70"
+hash = "68f6071cbcd75a6cc83b0605b4828b843c6560579f7f2d359c7f1d3faaf93ba1"
 metafile = true
 
 [[files]]
@@ -2355,7 +2355,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "121bfb7dba38eff5de393befb8a4cebcce60b3425fc41d2aa9d7cfe3b3bdd3b5"
+hash = "c0237aeac864e47c8e55d4dad9f37cd3c81e2314f2af279337c3cb562800a158"
 metafile = true
 
 [[files]]
