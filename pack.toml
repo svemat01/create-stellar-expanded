@@ -1,10 +1,10 @@
-name = "Stellar R"
+name = "Create Stellar Expanded"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fea8a256e6f48e39493ec19456a236e2f8bcd7f902d6aeb1d08b5823aaba94ad"
+hash = "56216dfa7107c27c6c5e197fbefb57da1935f586c286d1c21d31e22151e07af6"
 
 [versions]
 forge = "43.2.23"
