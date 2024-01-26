@@ -31,14 +31,16 @@ jobs:
       run: packwiz curseforge export -y
 
     - name: Rename and add file to release
+      id: rename
       run: |
         version=$(echo "${{ github.event.release.tag_name }}" | sed 's/^v//')
         filename="Create_Stellar_Expanded_${version}.zip"
         mv "Create Stellar Expanded.zip" "$filename"
-        echo "filename=$filename" >> $GITHUB_ENV
+        echo "FILENAME=$filename" >> "$GITHUB_OUTPUT"
+        echo "FILEPATH=$filename"
 
     - name: Upload release asset
       uses: softprops/action-gh-release@v1
       with:
-        files: ${filename}
+        files: ${{ steps.rename.outputs.FILEPATH }}
         tag_name: ${{ github.event.release.tag_name }}
