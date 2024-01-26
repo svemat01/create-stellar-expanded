@@ -34,11 +34,7 @@ jobs:
         mv "Create Stellar Expanded.zip" "$filename"
 
     - name: Upload release asset
-      uses: actions/upload-release-asset@v2
+      uses: softprops/action-gh-release@v1
       with:
-        upload_url: ${{ github.event.release.upload_url }}
-        asset_path: ${{ github.workspace }}/${filename}
-        asset_name: ${filename}
-        asset_content_type: application/zip
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        files: ${{ github.workspace }}/${filename}
+        tag_name: ${{ github.event.release.tag_name }}
