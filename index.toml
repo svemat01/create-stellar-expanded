@@ -2355,7 +2355,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
+hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
@@ -2426,6 +2426,11 @@ metafile = true
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "fcc4d3798b03d9089fb5dae013ec57fcd767baa62f04e7921312677cb8b8f4e7"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "15781aaeba7673898fdc7b29859886909748a520a22d382595717337186d1b56"
 metafile = true
 
 [[files]]
@@ -2639,6 +2644,11 @@ hash = "2adfafeb9bd3f0c69f51e911ade2a51e6c539080de592df62e504234983b361e"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
 metafile = true
@@ -2661,6 +2671,11 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "191ef8604adf7a431069eed8dc025f1431e97065d8141a2a4d5e488fc4c10640"
 metafile = true
 
 [[files]]
