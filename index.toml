@@ -2259,9 +2259,8 @@ hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
-metafile = true
+file = "mods/chisels-and-bits-forge-1.3.130-LOCAL.jar"
+hash = "de321babfe5691cd71f01b7e0b44eea3e4a757d1e5de06b4a1a658edc595175c"
 
 [[files]]
 file = "mods/citadel.pw.toml"
