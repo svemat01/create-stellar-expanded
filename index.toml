@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/build.yaml"
-hash = "4cc0d3ad4d9758d99191ec9cd56ad29f627332fc749a694a5d93414a1c5aca52"
-
-[[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "696efc1829a7f9a6acf0b7204c1b5d44eac60ffdc2d8e6f394aea560578d8960"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
