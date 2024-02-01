@@ -2091,6 +2091,76 @@ hash = "561c33283cfd91c1625ef3e63bb5fa99c0457a2a5820c475f7a382282b879468"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d1ea5998024c1c066c93e0f747936c8e0f94aa513813fff7664324d478061e67"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "9a7552b23a3cc485bc5393481b2a497ea56ee31da8c60794964c8f6a1da0e2d3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-biomes-o-plenty.pw.toml"
+hash = "d1aeb65de34e70c3411e36fa86f34ede03147ff77b158bc994761f19bc15ed15"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "a772503d6306277e545699374c12511114cb0d4e8bf0ee81f4c4d33f2d1167c8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
+hash = "61ae5229c809a2f8c41b675d4e576169777dce867d6ac1ee5c5c17eb630116d6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
+hash = "81b569c56bc20302d3521fb78ad4ce25ad9e34ea056c7e9c307639af8c192bab"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "2d2457ae5c4949c29a2ff048429d61da665fff1262f5a2165715130e2412497a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "02fa65ec589a8708c8ece47393c4411c188bf7b03b9dca7c2e092661ec3efa0a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "efcd9e7913a0870c9417f76b5510313a987c77256d6c173193a4094a567edeff"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
+hash = "2114817ffccbf18a39084230d07824851d8c6af0bde5ce76119ceb1e48bb047f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "acc1eb12bb2aab774f0bf90a895a447acddbb7d6c93398b14206ecc394463f41"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "7356bbcb7a0eee5216bbf729e434a53ac64df6fc4ae906f1101953bb2af80a4a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "a2d03a27e84f5f404bdc44c5f952d4f006ed146e2a49c351f323853cb22417a4"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
