@@ -1911,6 +1911,11 @@ hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "cd97c63b67f075aaa36a403c30d102e5d41928a58bcb90b16688f13686c38838"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation-forge.pw.toml"
 hash = "52def497afc727190cf4cd6de70843bb0a81ea24c88a772e0155ab4253cce7c4"
 metafile = true

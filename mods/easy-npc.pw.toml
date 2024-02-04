@@ -1,0 +1,13 @@
+name = "Easy NPC"
+filename = "easy_npc_1.19.2-3.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "617b2823cd77dc83811514cd634be507b062587d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5014506
+project-id = 559312
