@@ -1,13 +1,13 @@
 name = "Macaw's Bridges - Biomes O' Plenty"
-filename = "macawsbridgesbop-1.19.2-1.3.jar"
+filename = "macawsbridgesbop-1.20-1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9865ff112e64f53bdd44e97f970093ec4201aeb6"
+hash = "485c8e74ce7df831d56ce30864c4bf24891252af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4602585
+file-id = 4663797
 project-id = 533382
