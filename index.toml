@@ -2211,6 +2211,11 @@ hash = "9b0e7d2810efcdb222607a78cf1b4a201c023dafccabe1db661e86ad746779cc"
 metafile = true
 
 [[files]]
+file = "mods/nomowanderer.pw.toml"
+hash = "a0f3d5958da319078a5221c945e73f8177c7588f50e4d15cf9495dab666f4b8c"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
 metafile = true
