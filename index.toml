@@ -2326,6 +2326,11 @@ hash = "cf94347fca5cec8ef64c8a19bd2b9d499c74539d75f291bf51c118eec98d6220"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
@@ -2383,6 +2388,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ce553d5730bb38c3d66db2c3e9e312aa5abd45b5cab37fd7a9b759fe8ac97883"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
 metafile = true
 
 [[files]]
