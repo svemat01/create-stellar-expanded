@@ -1861,6 +1861,11 @@ hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "d740848ba86d9972a4b9bd977e988c4a3b6a54c6eb985ede2057174922333431"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
 metafile = true
@@ -2181,6 +2186,11 @@ hash = "a2d03a27e84f5f404bdc44c5f952d4f006ed146e2a49c351f323853cb22417a4"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch-forge.pw.toml"
+hash = "41d16495fa867cc62b2c5e910682774aaea7a00c3b253842b1ce13fb50fc2051"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
@@ -2243,6 +2253,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]
@@ -2408,6 +2423,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
