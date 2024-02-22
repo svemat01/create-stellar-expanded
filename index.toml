@@ -2196,6 +2196,21 @@ hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-art.pw.toml"
+hash = "c1262dced0c4de5b753f1043e2fe1bd2be44b6858eea0a0f406ace0fd5e5c8e0"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "28f883f51c3317aa678280ba5cc5f1d5b52092de87fe11f5d6d5a40be312e2e0"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-cookery.pw.toml"
+hash = "b5a7c915602f6dceb9bc86257b173c2945544f439ba69d7da6a68623d417570d"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "86cebca6d48ae03d07e8ea96b2b02bb2a3eadc1ff7a6f8fde064924723ab6b99"
 metafile = true
